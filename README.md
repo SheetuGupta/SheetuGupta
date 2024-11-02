@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/2619e5a9ead82dd13149cb33aeae4dd13e9969607c61eac3ac78fa34d6f5a609/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
+
 <h1 align="center">Hi 👋, I'm Sheetal Gupta</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm based in Greater Noida, India, and I'm on a journey of continuous learning and growth in the realm of web development.</h3>
 
